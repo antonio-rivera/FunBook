@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-light-jeans: #b6cbbd;
+  --color-brown: #754e1a;
+  --color-sand: #cba35c;
+  --color-beach: #f8e1b7;
+}
